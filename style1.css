@@ -1,0 +1,28 @@
+.in{
+    background-color: rgb(225, 140, 225);
+    height: 500px;
+    width: 600px;
+    margin-left: 415px;
+    text-align: center;
+    border-radius: 5%;
+    align-items: center;
+    justify-content: center;
+}
+.in p{
+    text-align: center;
+    padding: 20px 20px;
+    font-size: 30px;
+}
+.in p a{
+    text-decoration-line: none ;
+    height: 20px;
+    width: 30px;
+    background-color: white;
+    color: black;
+    font-weight: 300;
+    padding: 10px 10px 10px 10px;
+    border-radius: 6%;
+}
+.in p a:hover{
+    background: pink;
+}
